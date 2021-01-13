@@ -504,7 +504,7 @@ img{
 	text-align: center;
 	border-radius: 10px;
 	padding: 30px;
-	margin: 30px;
+	margin: 5px;        /*change*/ 
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -680,7 +680,7 @@ img{
     
     /* Contact */
     #contact .contact{
-        flex-direction: column;
+        flex-direction: collumn;
         padding: 100px 0;
         align-items: center;
         justify-content: center;
@@ -740,9 +740,6 @@ img{
     }
 
     /*ENd ofHeader */
-
-
-
 
     #services .service-bottom .service-item{
         flex-basis: 22%;
